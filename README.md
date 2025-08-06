@@ -15,7 +15,7 @@ This project is still under development. Installation instructions will be added
 
 ## Contributing
 
-Contributions are very welcome! Please read the CONTRIBUTING.md file for guidelines on how to contribute to this project.
+Contributions are very welcome! Please read the [CONTRIBUTING.md](CONTRIBUTING.md) file for guidelines on how to contribute to this project.
 
 ## License
 
